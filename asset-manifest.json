@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/employee-list-app-project/static/css/main.eeec8b20.css",
+    "main.js": "/github.io/employee-list-app-project/static/js/main.addf9901.js",
+    "static/js/787.7425e619.chunk.js": "/github.io/employee-list-app-project/static/js/787.7425e619.chunk.js",
+    "static/media/logo.svg": "/github.io/employee-list-app-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/employee-list-app-project/index.html",
+    "main.eeec8b20.css.map": "/github.io/employee-list-app-project/static/css/main.eeec8b20.css.map",
+    "main.addf9901.js.map": "/github.io/employee-list-app-project/static/js/main.addf9901.js.map",
+    "787.7425e619.chunk.js.map": "/github.io/employee-list-app-project/static/js/787.7425e619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeec8b20.css",
+    "static/js/main.addf9901.js"
+  ]
+}
