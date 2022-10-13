@@ -6,7 +6,7 @@ import data from "./helper/data"
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       
       { <Main data={data} /> }
     </div>
